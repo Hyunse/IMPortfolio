@@ -13,10 +13,18 @@ public class ProjectController {
 	private static final Logger logger = LoggerFactory.getLogger(ProjectController.class);
 
 	@RequestMapping(value = "/project/bosch", method = RequestMethod.GET)
-	public String project(Model model) {
+	public String goBosch(Model model) {
 		
 		logger.debug("Project Detail Page....");
 		
 		return "/jsp/project/bosch";
+	}
+	
+	@RequestMapping(value = "/project/knbank", method = RequestMethod.GET)
+	public String goKnbank(Model model) {
+		
+		logger.debug("Project Detail Page....");
+		
+		return "/jsp/project/knbank";
 	}
 }

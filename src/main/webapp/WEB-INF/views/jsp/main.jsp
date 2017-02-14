@@ -139,7 +139,6 @@
             <div class="row">
               <div class="col-md-12">
                 <h2 class="heading">Works</h2>
-                <p class="text-center">You can make also a portfolio or image gallery.</p>
                 <div class="row">
                   <div class="col-sm-4">
                     <div class="box">
@@ -149,7 +148,11 @@
                     </div>
                   </div>
                   <div class="col-sm-4">
-                    <div class="box"><a href="#none" title="" id="knbImg" class="portfolio"><img src="/resources/img/portfolio-2.jpg" alt="" class="img-responsive"></a></div>
+                    <div class="box">
+                    	<a href="/project/knbank" title="" id="knbImg" class="portfolio">
+                    		<img src="/resources/img/k_title.jpg" alt="" class="img-responsive">
+                    	</a>
+                    </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="box"><a href="#" title="" class="portfolio"><img src="/resources/img/portfolio-3.jpg" alt="" class="img-responsive"></a></div>
@@ -254,38 +257,7 @@
       </section>
     </div>
   </div>
-  <!-- S- modal -->
-   <div class="modal fade" id="portModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-      </div>
-      <div class="modal-body">
-        ...
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
-   <!-- E- modal -->
-
-<!--   	<section id="detailPage" class="section-white"> -->
-<!--       <div class="content"> -->
-<!--         <div class="container clearfix"> -->
-<!--           <div class="row"> -->
-<!--             <div class="col-md-12"> -->
-<!--               <h2 class="heading">Detail page</h2> -->
-<!--             </div> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--       </div> -->
-<!--     </section> -->
- 	<script src="/resources/js/front.js"></script>
+  <script src="/resources/js/front.js"></script>
   <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.-->
   <script>
     (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
