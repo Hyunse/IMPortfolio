@@ -1,0 +1,36 @@
+/* your styles go here */
+
+.wrapper2 {
+  height: 100% !important;
+  height: 100%;
+  margin: 0 auto;
+  overflow-y: scroll;
+}
+.content2 {
+  position: relative;
+  width: 100%;
+  top: 25%;
+/*   -webkit-transform: translate(0, -10%); */
+/*   -ms-transform: translate(0, -10%); */
+  transform: translate(0, -10%);
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  z-index: 3;
+}
+.details .box {
+  margin-bottom: 20px;
+  text-align: left;
+}
+.details .heading {
+  text-align: left;
+  margin-bottom: 40px;
+}
+.details .heading:after {
+  content: " ";
+  display: block;
+  width: 300px;
+  height: 1px;
+  margin: 5px 0px 5px;
+  background: #4fbfa8;
+}
