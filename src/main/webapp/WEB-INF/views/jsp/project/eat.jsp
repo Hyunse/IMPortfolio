@@ -53,21 +53,17 @@
 						 		<h2 class="heading">Project Notes</h2>
 						 		<div class="banner">
 								    <ul>
-								    	<li><img src="/resources/img/portfolio-6.jpg" alt="" class="img-responsive"></li>
-								    	<li><img src="/resources/img/portfolio-6.jpg" alt="" class="img-responsive"></li>
-								    	<li><img src="/resources/img/portfolio-6.jpg" alt="" class="img-responsive"></li>
+								    	<li><img src="/resources/img/eat/eat_1.jpg" alt="" class="img-responsive"></li>
+								    	<li><img src="/resources/img/eat/eat_2.jpg" alt="" class="img-responsive"></li>
+								    	<li><img src="/resources/img/eat/eat_3.jpg" alt="" class="img-responsive"></li>
 								    </ul>
 								</div>
 							 	<div class="row">
 							    	<div class="col-sm-12">
 	    						    	<div class="box">
 				   		         			<h4 class="heading">About Project</h4>
-				   		         			<p>	
-												이 프로젝트에서 PM Tool, LineSetup, MasterTool 개발에 참여 했습니다.
-												현업이 엑셀로 작업하던 일을 웹으로 구현하여 빠르고 편리한 웹 어플리케이션을 구축했습니다.
-												각 부서의 Master Tool 프로세스 평균시간을 측정하여 d3.js로  그래프 시각화, 
-												user가 porject에 등록한 특정날짜를 체크하여 batch를 통해 이메일 발송,
-												업로드 한 Excel의 validation check 등 기능 개발 및 유지보수를 수행했습니다.
+				   		         			<p>
+				   		         				식품영양성분 산출프로그램 재정비 및 확충 프로젝트입니다. 포털 통합에 따라 데이터 이관, 산출 프로그램 기능 구현, WebSquare로 관리자 페이지 생성등을 수행.	
 				   		         			</p>
 	   					   	     		</div>
 	   					   	        </div>
@@ -76,7 +72,7 @@
 							 		<div class="col-sm-4">
 							     		<div class="box">
 				   		         			<h4 class="heading">Client</h4>
-				   		         			<p>Bosch</p>
+				   		         			<p>식약처</p>
 					   	         		</div>
 			         	   		 	</div>
 							 	</div>
@@ -84,7 +80,7 @@
 							 	 	<div class="col-sm-4">
 			         	   				<div class="box">
 					   		         		<h4 class="heading">Term</h4>
-					   		         		<p>2016.06 ~ 2016.12</p>
+					   		         		<p>2015.12 ~ 2016.01</p>
 					   		        	</div>
 	   					   	     	</div>
 							 	</div>
@@ -93,11 +89,12 @@
 			         	   				<div class="box">
 					   		         		<h4 class="heading">Technologies</h4>
 					   		         		<ul >
-					   		         			<li>Spring Data JPA</li>
-					   		         			<li>Hibernate</li>
-					   		         			<li>DHtmlX Grid</li>
-					   		         			<li>d3.js</li>
-					   		         			<li>ms-sql</li>
+					   		         			<li>eGovFramework</li>
+					   		         			<li>Mybatis</li>
+					   		         			<li>WebSquare5</li>
+					   		         			<li>Jquery</li>
+					   		         			<li>Java</li>
+					   		         			<li>Altibase</li>
 					   		         			<li>Bootstrap</li>
 					   		         		</ul>
 					   		        	</div>

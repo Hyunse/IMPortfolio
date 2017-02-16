@@ -31,25 +31,10 @@
 <script src="/resources/js/bootstrap.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(function(){
-	
-		// portfolio image click
-		$(".portfolio").on("click",function(){
-			var imgId = $(this).attr("id");
-			
-			fn_showModal(imgId);
-		});
-	
+	    $(".main").onepage_scroll({
+	        pagination: true
+	    });
 	});
-	
-	// function modal event
-	function fn_showModal(id){
-		switch(id){
-			case "boschImg":
-				break;
-			case "knbImg":
-				break;
-		}
-	}
 </script>
 </head>
 <body>
@@ -142,31 +127,33 @@
                 <div class="row">
                   <div class="col-sm-4">
                     <div class="box">
-                    	<a href="/project/bosch" title="" id="boschImg" class="portfolio" >
-                    		<img src="/resources/img/bosch_title.jpg" alt="" class="img-responsive">
+                    	<a href="/project/bosch" title="" id="boschImg" class="portfolio" target="_blank">
+                    		<img src="/resources/img/bosch/bosch_title.jpg" alt="" class="img-responsive">
                     	</a>
                     </div>
                   </div>
                   <div class="col-sm-4">
                     <div class="box">
-                    	<a href="/project/knbank" title="" id="knbImg" class="portfolio">
-                    		<img src="/resources/img/k_title.jpg" alt="" class="img-responsive">
+                    	<a href="/project/knbank" title="" id="knbImg" class="portfolio" target="_blank">
+                    		<img src="/resources/img/knbank/k_title.jpg" alt="" class="img-responsive">
                     	</a>
                     </div>
                   </div>
                   <div class="col-sm-4">
-                    <div class="box"><a href="#" title="" class="portfolio"><img src="/resources/img/portfolio-3.jpg" alt="" class="img-responsive"></a></div>
+                    <div class="box">
+                    	<a href="/project/eat" title="" class="portfolio" target="_blank">
+                    		<img src="/resources/img/eat/eat_title.jpg" alt="" class="img-responsive">
+                    	</a>
+                    </div>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-sm-4">
-                    <div class="box"><a href="#" title=""><img src="/resources/img/portfolio-4.jpg" alt="" class="img-responsive"></a></div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="box"><a href="#" title=""><img src="/resources/img/portfolio-5.jpg" alt="" class="img-responsive"></a></div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="box"><a href="#" title=""><img src="/resources/img/portfolio-6.jpg" alt="" class="img-responsive"></a></div>
+                    <div class="box">
+                    	<a href="/project/cal" title="" class="portfolio" target="_blank">
+                    		<img src="/resources/img/cal/cal_title.JPG" alt="" class="img-responsive">
+                    	</a>
+                    </div>
                   </div>
                 </div>
               </div>

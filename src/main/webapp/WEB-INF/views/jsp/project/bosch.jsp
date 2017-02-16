@@ -53,17 +53,17 @@
 						 		<h2 class="heading">Project Notes</h2>
 						 		<div class="banner">
 								    <ul>
-								    	<li><img src="/resources/img/portfolio-6.jpg" alt="" class="img-responsive"></li>
-								    	<li><img src="/resources/img/portfolio-6.jpg" alt="" class="img-responsive"></li>
-								    	<li><img src="/resources/img/portfolio-6.jpg" alt="" class="img-responsive"></li>
+								    	<li><img src="/resources/img/bosch/mastertool_1.png" alt="" class="img-responsive"></li>
+								    	<li><img src="/resources/img/bosch/mastertool_2.png" alt="" class="img-responsive"></li>
+								    	<li><img src="/resources/img/bosch/mastertool_3.png" alt="" class="img-responsive"></li>
 								    </ul>
 								</div>
 							 	<div class="row">
 							    	<div class="col-sm-12">
 	    						    	<div class="box">
 				   		         			<h4 class="heading">About Project</h4>
-				   		         			<p>	
-												이 프로젝트에서 PM Tool, LineSetup, MasterTool 개발에 참여 했습니다.
+				   		         			<p class="han">	
+												크게 나눠 PM Tool, LineSetup, MasterTool 개발에 참여 했습니다.
 												현업이 엑셀로 작업하던 일을 웹으로 구현하여 빠르고 편리한 웹 어플리케이션을 구축했습니다.
 												각 부서의 Master Tool 프로세스 평균시간을 측정하여 d3.js로  그래프 시각화, 
 												user가 porject에 등록한 특정날짜를 체크하여 batch를 통해 이메일 발송,
@@ -84,7 +84,7 @@
 							 	 	<div class="col-sm-4">
 			         	   				<div class="box">
 					   		         		<h4 class="heading">Term</h4>
-					   		         		<p>2016.06 ~ 2016.12</p>
+					   		         		<p>2015.06 ~ 2015.12</p>
 					   		        	</div>
 	   					   	     	</div>
 							 	</div>
@@ -99,6 +99,7 @@
 					   		         			<li>d3.js</li>
 					   		         			<li>ms-sql</li>
 					   		         			<li>Bootstrap</li>
+					   		         			<li>Git</li>
 					   		         		</ul>
 					   		        	</div>
 	   					   	     	</div>
