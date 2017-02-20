@@ -176,7 +176,8 @@ p.social a.email {
 }
 #page1 {
   text-align: center;
-  background: url('../img/black.jpg') center center no-repeat;
+/*   background: url('../img/black.jpg') center center no-repeat; */
+  background: black;
   background-size: cover;
   color: #fff;
 }

@@ -56,6 +56,7 @@
 								    	<li><img src="/resources/img/eat/eat_1.jpg" alt="" class="img-responsive"></li>
 								    	<li><img src="/resources/img/eat/eat_2.jpg" alt="" class="img-responsive"></li>
 								    	<li><img src="/resources/img/eat/eat_3.jpg" alt="" class="img-responsive"></li>
+								    	<li><img src="/resources/img/eat/eat_4.jpg" alt="" class="img-responsive"></li>
 								    </ul>
 								</div>
 							 	<div class="row">
@@ -63,7 +64,8 @@
 	    						    	<div class="box">
 				   		         			<h4 class="heading">About Project</h4>
 				   		         			<p>
-				   		         				식품영양성분 산출프로그램 재정비 및 확충 프로젝트입니다. 포털 통합에 따라 데이터 이관, 산출 프로그램 기능 구현, WebSquare로 관리자 페이지 생성등을 수행.	
+				   		         				식품영양성분 산출프로그램 재정비 및 확충 프로젝트입니다. 포털 통합에 따라 데이터 이관, 영양성분 산출 프로그램 기능 구현, 
+				   		         				WebSquare로 당류줄이기 교육프로그램 관리페이지 생성등을 수행했습니다.	
 				   		         			</p>
 	   					   	     		</div>
 	   					   	        </div>
@@ -95,7 +97,6 @@
 					   		         			<li>Jquery</li>
 					   		         			<li>Java</li>
 					   		         			<li>Altibase</li>
-					   		         			<li>Bootstrap</li>
 					   		         		</ul>
 					   		        	</div>
 	   					   	     	</div>
