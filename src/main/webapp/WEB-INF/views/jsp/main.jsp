@@ -144,7 +144,7 @@
 	                    		<img src="./resources/img/bosch/master_title.jpg" alt="" class="img-responsive">
 	                  		    <div class="overlay">
 				            		<h2>Bosch Master Tool</h2>
-				            		<a href="/project/bosch" title="" id="boschImg" class="info" target="_blank">Click</a>
+				            		<a href="/ImPortfolio/project/bosch" title="" id="boschImg" class="info" target="_blank">Click</a>
 				        		</div>
 							</div>
 	                    </div>
@@ -155,7 +155,7 @@
 	                    		<img src="./resources/img/knbank/knbank_title.jpg" alt="" class="img-responsive">
 	                  		    <div class="overlay">
 				            		<h2>Kyongnam Bank Internet Banking</h2>
-				            		<a href="/project/knbank" title="" id="knbImg" class="info" target="_blank">Click</a>
+				            		<a href="/ImPortfolio/project/knbank" title="" id="knbImg" class="info" target="_blank">Click</a>
 				        		</div>	                    	
 	                    	</div>
 	                    </div>
@@ -166,7 +166,7 @@
 	                    		<img src="./resources/img/eat/eat_title.jpg" alt="" class="img-responsive">
 	                  		    <div class="overlay">
 				            		<h2>nutrient calculation program</h2>
-				            		<a href="/project/eat" title="" class="info" target="_blank">Click</a>
+				            		<a href="/ImPortfolio/project/eat" title="" class="info" target="_blank">Click</a>
 				        		</div>	                    	
 	                    	</div>
 	                    </div>
@@ -179,7 +179,7 @@
 	                    		<img src="./resources/img/cal/cal_title.JPG" alt="" class="img-responsive">
 	                  		    <div class="overlay">
 				            		<h2>processed meat,red meat calculation program app</h2>
-				            		<a href="/project/cal" title="" class="info" target="_blank">Click</a>
+				            		<a href="/ImPortfolio/project/cal" title="" class="info" target="_blank">Click</a>
 				        		</div>	                    	
 	                    	</div>
 	                    </div>
