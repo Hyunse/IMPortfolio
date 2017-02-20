@@ -43,7 +43,7 @@
 	});
 </script>
 </head>
-<body detail="detailBody">
+<body class="detailBody">
 <div class="wrapper2">
     <div class="main"> 
 				<div class="content2">
