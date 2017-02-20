@@ -137,7 +137,6 @@
             <div class="row">
               <div class="col-md-12">
                 <h2 class="heading">Works</h2>
-                <p class="text-center">click image</p>
 	                <div class="row">
 	                  <div class="col-sm-4">
 	                    <div class="box">
@@ -179,7 +178,7 @@
 	                    	<div class="hovereffect">
 	                    		<img src="/resources/img/cal/cal_title.JPG" alt="" class="img-responsive">
 	                  		    <div class="overlay">
-				            		<h2>nutrient calculation program</h2>
+				            		<h2>processed meat,red meat calculation program app</h2>
 				            		<a href="/project/cal" title="" class="info" target="_blank">Click</a>
 				        		</div>	                    	
 	                    	</div>
@@ -201,13 +200,13 @@
                 <div class="row">
                   <div class="col-sm-12">
                     <h4>
-	                    <p class="lead">
+	                    <p class="lead text-center">
 	                    	I'm looking for a job as Web Developer.
 	                    </p>
-	                    <p class="lead">
+	                    <p class="lead text-center">
 	                    	 Feel free to contact me.
 	                    </p>
-	                    <p>
+	                    <p class="text-center">
 	                    	<i class="fa fa-envelope"></i> anzmf12@naver.com
 	                    </p>
                     </h4>
@@ -218,70 +217,8 @@
           </div>
         </div>
       </section>
-      <!-- page 6-->
-<!--       <section id="page6"> -->
-<!--         <div class="content"> -->
-<!--           <div class="container clearfix"> -->
-<!--             <div class="row"> -->
-<!--               <div class="col-md-12"> -->
-<!--                 <h2 class="heading">Contact</h2> -->
-<!--                 <div class="row"> -->
-<!--                   <div class="col-md-6"> -->
-<!--                     <form id="contact-form" method="post" action="contact.php" class="contact-form"> -->
-<!--                       <div class="controls"> -->
-<!--                         <div class="row"> -->
-<!--                           <div class="col-sm-6"> -->
-<!--                             <div class="form-group"> -->
-<!--                               <label for="name">Your firstname *</label> -->
-<!--                               <input type="text" name="name" placeholder="Enter your firstname" required="required" class="form-control"> -->
-<!--                             </div> -->
-<!--                           </div> -->
-<!--                           <div class="col-sm-6"> -->
-<!--                             <div class="form-group"> -->
-<!--                               <label for="surname">Your lastname *</label> -->
-<!--                               <input type="text" name="surname" placeholder="Enter your  lastname" required="required" class="form-control"> -->
-<!--                             </div> -->
-<!--                           </div> -->
-<!--                         </div> -->
-<!--                         <div class="form-group"> -->
-<!--                           <label for="surname">Your email *</label> -->
-<!--                           <input type="email" name="email" placeholder="Enter your  email" required="required" class="form-control"> -->
-<!--                         </div> -->
-<!--                         <div class="form-group"> -->
-<!--                           <label for="surname">Your message for us *</label> -->
-<!--                           <textarea rows="4" name="message" placeholder="Enter your message" required="required" class="form-control"></textarea> -->
-<!--                         </div> -->
-<!--                         <div class="text-center"> -->
-<!--                           <input type="submit" name="name" value="Send message" class="btn btn-primary btn-block"> -->
-<!--                         </div> -->
-<!--                       </div> -->
-<!--                     </form> -->
-<!--                   </div> -->
-<!--                   <div class="col-md-6"> -->
-<!--                   </div> -->
-<!--                 </div> -->
-<!--                 <div class="row copyright"> -->
-<!--                   <div class="col-md-6"> -->
-<!--                   </div> -->
-<!--                   <div class="col-md-6"> -->
-<!--                   </div> -->
-<!--                 </div> -->
-<!--               </div> -->
-<!--             </div> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--       </section> -->
     </div>
   </div>
   <script src="/resources/js/front.js"></script>
-  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.-->
-  <script>
-//     (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-//     function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-//     e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-//     e.src='//www.google-analytics.com/analytics.js';
-//     r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-//     ga('create','anzmf12@naver.com');ga('send','pageview');
-  </script>
 </body>
 </html>
