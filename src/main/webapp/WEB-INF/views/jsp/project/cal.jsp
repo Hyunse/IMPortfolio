@@ -11,27 +11,27 @@
 <meta name="robots" content="all,follow">
 <!-- Bootstrap and Font Awesome css-->
 <!-- we use cdn but you can also include local files located in css directory-->
-<link rel="stylesheet" href="/resources/css/font-awesome.css">
-<link rel="stylesheet" href="/resources/css/font-awesome-animation.min.css">
-<link rel="stylesheet" href="/resources/css/bootstrap.min.css">
+<link rel="stylesheet" href="../resources/css/font-awesome.css">
+<link rel="stylesheet" href="../resources/css/font-awesome-animation.min.css">
+<link rel="stylesheet" href="../resources/css/bootstrap.min.css">
 <!-- Google fonts - Montserrat for headings, Cardo for copy-->
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:400,700|Cardo:400,400italic,700">
 <!-- onepage scroll stylesheet-->
-<link rel="stylesheet" href="/resources/css/onepage-scroll.css">
+<link rel="stylesheet" href="../resources/css/onepage-scroll.css">
 <!-- theme stylesheet-->
-<link rel="stylesheet" href="/resources/css/style.default.css" id="theme-stylesheet">
+<link rel="stylesheet" href="../resources/css/style.default.css" id="theme-stylesheet">
 <!-- Custom stylesheet - for your changes-->
-<link rel="stylesheet" href="/resources/css/custom.css">
-<link rel="stylesheet" href="/resources/css/unslider.css">
-<link rel="stylesheet" href="/resources/css/unslider-dots.css">
+<link rel="stylesheet" href="../resources/css/custom.css">
+<link rel="stylesheet" href="../resources/css/unslider.css">
+<link rel="stylesheet" href="../resources/css/unslider-dots.css">
 <!-- Favicon-->
 <!--     <link rel="shortcut icon" href="favicon.png"> -->
-<script src="/resources/js/jquery-1.11.0.min.js"></script>
-<script src="/resources/js/jquery.cookie.js"></script>
-<script src="/resources/js/jquery.onepage-scroll.js"></script>
-<script src="/resources/js/jquery-ui.min.js"></script>
-<script src="/resources/js/bootstrap.min.js"></script>
-<script src="/resources/js/unslider.js"></script>
+<script src="../resources/js/jquery-1.11.0.min.js"></script>
+<script src="../resources/js/jquery.cookie.js"></script>
+<script src="../resources/js/jquery.onepage-scroll.js"></script>
+<script src="../resources/js/jquery-ui.min.js"></script>
+<script src="../resources/js/bootstrap.min.js"></script>
+<script src="../resources/js/unslider.js"></script>
 <script type="text/javascript">
 	$(document).ready(function(){
 		$('.banner').unslider({
@@ -53,10 +53,10 @@
 						 		<h2 class="heading">Project Notes</h2>
 						 		<div class="banner">
 								    <ul>
-										<li><img src="/resources/img/cal/cal_4.JPG" alt="" class="img-responsive"></li>
-								    	<li><img src="/resources/img/cal/cal_1.JPG" alt="" class="img-responsive"></li>
-								    	<li><img src="/resources/img/cal/cal_2.JPG" alt="" class="img-responsive"></li>
-								    	<li><img src="/resources/img/cal/cal_3.JPG" alt="" class="img-responsive"></li>
+										<li><img src="../resources/img/cal/cal_4.JPG" alt="" class="img-responsive"></li>
+								    	<li><img src="../resources/img/cal/cal_1.JPG" alt="" class="img-responsive"></li>
+								    	<li><img src="../resources/img/cal/cal_2.JPG" alt="" class="img-responsive"></li>
+								    	<li><img src="../resources/img/cal/cal_3.JPG" alt="" class="img-responsive"></li>
 								    </ul>
 								</div>
 							 	<div class="row">

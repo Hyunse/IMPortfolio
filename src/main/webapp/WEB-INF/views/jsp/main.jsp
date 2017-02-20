@@ -11,24 +11,24 @@
 <meta name="robots" content="all,follow">
 <!-- Bootstrap and Font Awesome css-->
 <!-- we use cdn but you can also include local files located in css directory-->
-<link rel="stylesheet" href="/resources/css/font-awesome.css">
-<link rel="stylesheet" href="/resources/css/font-awesome-animation.min.css">
-<link rel="stylesheet" href="/resources/css/bootstrap.min.css">
+<link rel="stylesheet" href="./resources/css/font-awesome.css">
+<link rel="stylesheet" href="./resources/css/font-awesome-animation.min.css">
+<link rel="stylesheet" href="./resources/css/bootstrap.min.css">
 <!-- Google fonts - Montserrat for headings, Cardo for copy-->
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:400,700|Cardo:400,400italic,700">
 <!-- onepage scroll stylesheet-->
-<link rel="stylesheet" href="/resources/css/onepage-scroll.css">
+<link rel="stylesheet" href="./resources/css/onepage-scroll.css">
 <!-- theme stylesheet-->
-<link rel="stylesheet" href="/resources/css/style.default.css" id="theme-stylesheet">
+<link rel="stylesheet" href="./resources/css/style.default.css" id="theme-stylesheet">
 <!-- Custom stylesheet - for your changes-->
-<link rel="stylesheet" href="/resources/css/custom.css">
+<link rel="stylesheet" href="./resources/css/custom.css">
 <!-- Favicon-->
 <!--     <link rel="shortcut icon" href="favicon.png"> -->
-<script src="/resources/js/jquery-1.11.0.min.js"></script>
-<script src="/resources/js/jquery.cookie.js"></script>
-<script src="/resources/js/jquery.onepage-scroll.js"></script>
-<script src="/resources/js/jquery-ui.min.js"></script>
-<script src="/resources/js/bootstrap.min.js"></script>
+<script src="./resources/js/jquery-1.11.0.min.js"></script>
+<script src="./resources/js/jquery.cookie.js"></script>
+<script src="./resources/js/jquery.onepage-scroll.js"></script>
+<script src="./resources/js/jquery-ui.min.js"></script>
+<script src="./resources/js/bootstrap.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(function(){
 	    $(".main").onepage_scroll({
@@ -74,7 +74,7 @@
                 </p>
               </div>
               <div class="col-md-5 col-md-offset-1">
-                <p><img src="/resources/img/me.jpg" alt="" class="img-responsive img-circle"></p>
+                <p><img src="./resources/img/me.jpg" alt="" class="img-responsive img-circle"></p>
               </div>
             </div>
           </div>
@@ -141,7 +141,7 @@
 	                  <div class="col-sm-4">
 	                    <div class="box">
                         	<div class="hovereffect">
-	                    		<img src="/resources/img/bosch/master_title.jpg" alt="" class="img-responsive">
+	                    		<img src="./resources/img/bosch/master_title.jpg" alt="" class="img-responsive">
 	                  		    <div class="overlay">
 				            		<h2>Bosch Master Tool</h2>
 				            		<a href="/project/bosch" title="" id="boschImg" class="info" target="_blank">Click</a>
@@ -152,7 +152,7 @@
 	                  <div class="col-sm-4">
 	                    <div class="box">
 	                    	<div class="hovereffect">
-	                    		<img src="/resources/img/knbank/knbank_title.jpg" alt="" class="img-responsive">
+	                    		<img src="./resources/img/knbank/knbank_title.jpg" alt="" class="img-responsive">
 	                  		    <div class="overlay">
 				            		<h2>Kyongnam Bank Internet Banking</h2>
 				            		<a href="/project/knbank" title="" id="knbImg" class="info" target="_blank">Click</a>
@@ -163,7 +163,7 @@
 	                  <div class="col-sm-4">
 	                    <div class="box">
 	                    	<div class="hovereffect">
-	                    		<img src="/resources/img/eat/eat_title.jpg" alt="" class="img-responsive">
+	                    		<img src="./resources/img/eat/eat_title.jpg" alt="" class="img-responsive">
 	                  		    <div class="overlay">
 				            		<h2>nutrient calculation program</h2>
 				            		<a href="/project/eat" title="" class="info" target="_blank">Click</a>
@@ -176,7 +176,7 @@
 	                  <div class="col-sm-4">
 	                    <div class="box">
 	                    	<div class="hovereffect">
-	                    		<img src="/resources/img/cal/cal_title.JPG" alt="" class="img-responsive">
+	                    		<img src="./resources/img/cal/cal_title.JPG" alt="" class="img-responsive">
 	                  		    <div class="overlay">
 				            		<h2>processed meat,red meat calculation program app</h2>
 				            		<a href="/project/cal" title="" class="info" target="_blank">Click</a>
@@ -219,6 +219,6 @@
       </section>
     </div>
   </div>
-  <script src="/resources/js/front.js"></script>
+  <script src="./resources/js/front.js"></script>
 </body>
 </html>
