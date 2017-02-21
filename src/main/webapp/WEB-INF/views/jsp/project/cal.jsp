@@ -25,7 +25,7 @@
 <link rel="stylesheet" href="../resources/css/unslider.css">
 <link rel="stylesheet" href="../resources/css/unslider-dots.css">
 <!-- Favicon-->
-<link rel="shortcut icon" href="./resources/img/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="../resources/img/favicon.ico" type="image/x-icon">
 <script src="../resources/js/jquery-1.11.0.min.js"></script>
 <script src="../resources/js/jquery.cookie.js"></script>
 <script src="../resources/js/jquery.onepage-scroll.js"></script>
