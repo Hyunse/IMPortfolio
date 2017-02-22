@@ -32,9 +32,6 @@
 <script src="./resources/js/bootstrap.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(function(){
-	    $(".main").onepage_scroll({
-	        pagination: true
-	    });
 	});
 </script>
 </head>
@@ -98,22 +95,6 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="box">
-                      <div class="icon"><i class="fa fa-database"></i></div>
-                      <h4 class="heading">Database</h4>
-                      <p>Oracle, ms-sql, mysql </p>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="box">
-                      <div class="icon"><i class="fa fa-codepen"></i></div>
-                      <h4 class="heading">Spring Framework</h4>
-                      <p></p>
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-sm-4">
-                    <div class="box">
                       <div class="icon"><i class="fa fa-code"></i></div>
                       <h4 class="heading">JavaScript/Jquery</h4>
                       <p></p>
@@ -121,9 +102,48 @@
                   </div>
                   <div class="col-sm-4">
                     <div class="box">
+                      <div class="icon"><i class="fa fa-database"></i></div>
+                      <h4 class="heading">Database</h4>
+                      <p>Oracle, ms-sql, mysql </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-4">
+                    <div class="box">
+                      <div class="icon"><i class="fa fa-codepen"></i></div>
+                      <h4 class="heading">Spring Framework</h4>
+                      <p>Spring Data JPA, eGov, IB20, UBiz30</p>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="box">
+                      <div class="icon"><i class="fa fa-codepen"></i></div>
+                      <h4 class="heading">ORM</h4>
+                      <p>Hibernate, Mybatis</p>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="box">
                       <div class="icon"><i class="fa fa-code-fork"></i></div>
-                      <h4 class="heading">Git, SVN</h4>
-                      <p></p>
+                      <h4 class="heading">Version Control</h4>
+                      <p>Git, SVN</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-4">
+                    <div class="box">
+                      <div class="icon"><i class="fa fa-code-fork"></i></div>
+                      <h4 class="heading">AWS</h4>
+                      <p>ec2, route 53</p>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="box">
+                      <div class="icon"><i class="fa fa-code"></i></div>
+                      <h4 class="heading">Linux</h4>
+                      <p>Amazon Linux AMI</p>
                     </div>
                   </div>
                 </div>
@@ -200,17 +220,15 @@
                 <h2 class="heading">Contact Me</h2>
                 <div class="row">
                   <div class="col-sm-12">
-                    <h4>
-	                    <p class="lead text-center">
+                    <h4 class="lead text-center">
 	                    	I'm looking for a job as Web Developer.
-	                    </p>
-	                    <p class="lead text-center">
-	                    	 Feel free to contact me.
-	                    </p>
-	                    <p class="text-center">
+					</h4>
+					<h4 class="lead text-center">
+	                    	Feel free to contact me.
+	                </h4>
+	                <h4 class="text-center">
 	                    	<i class="fa fa-envelope"></i> anzmf12@naver.com
-	                    </p>
-                    </h4>
+					</h4>
                   </div>
                 </div>
               </div>
