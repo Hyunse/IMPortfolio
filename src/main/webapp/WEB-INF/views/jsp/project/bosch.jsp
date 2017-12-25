@@ -46,12 +46,16 @@
 						    	<div class="col-sm-12">
     						    	<div class="box">
 			   		         			<h4 class="heading">About Project</h4>
-			   		         			<p class="han">	
-											크게 나눠 PM Tool, LineSetup, MasterTool 개발에 참여 했습니다.
-											현업이 엑셀로 작업하던 일을 웹으로 구현하여 빠르고 편리한 웹 어플리케이션을 구축했습니다.
-											각 부서의 Master Tool 프로세스 평균시간을 측정하여 d3.js로  그래프 시각화, 
-											user가 porject에 등록한 특정날짜를 체크하여 batch를 통해 이메일 발송,
-											업로드 한 Excel의 validation check 등 기능 개발 및 유지보수를 수행했습니다.
+			   		         			<p class="han">
+			   		         				Master Tool is a web application for a field worker and officer in Bosch.
+			   		         				It was my first web project in my career. I made a analytics page using c3.js,
+			   		         				batch program to send Email on specific day and time, 
+			   		         				validation check form and uploaded Excel, etc.
+<!-- 											크게 나눠 PM Tool, LineSetup, MasterTool 개발에 참여 했습니다. -->
+<!-- 											현업이 엑셀로 작업하던 일을 웹으로 구현하여 빠르고 편리한 웹 어플리케이션을 구축했습니다. -->
+<!-- 											각 부서의 Master Tool 프로세스 평균시간을 측정하여 d3.js로  그래프 시각화,  -->
+<!-- 											user가 porject에 등록한 특정날짜를 체크하여 batch를 통해 이메일 발송, -->
+<!-- 											업로드 한 Excel의 validation check 등 기능 개발 및 유지보수를 수행했습니다. -->
 			   		         			</p>
    					   	     		</div>
    					   	        </div>
@@ -80,7 +84,7 @@
 				   		         			<li>Spring Data JPA</li>
 				   		         			<li>Hibernate</li>
 				   		         			<li>DHtmlX Grid</li>
-				   		         			<li>d3.js</li>
+				   		         			<li>c3.js</li>
 				   		         			<li>ms-sql</li>
 				   		         			<li>Bootstrap</li>
 				   		         			<li>Git</li>

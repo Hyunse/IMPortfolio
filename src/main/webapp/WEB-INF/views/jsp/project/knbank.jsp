@@ -48,9 +48,11 @@
     						    	<div class="box">
 			   		         			<h4 class="heading">About Project</h4>
 			   		         			<p>	
-			   		         				경남은행 신인터넷뱅킹구축 프로젝트에서 외환뱅킹 인터넷뱅킹을 개발했습니다. 국내송금(타행),결제원이체,
-			   		         				외화정기예금 신규/해지,지정환율자동이체,환율 조회,외환 계산기 등을 담당하였습니다. 이 프로젝트에서는 기획/퍼블/테스터와의 협업을 통해
-			   		         				까다로운 validation check와 다른 국적의 사용자를 위한 다국어 구축, 전문 설계, 채널 구축등을 수행했습니다.
+			   		         				It's internet banking system. I made foreign exchange part like Foreign Currency Remittance,
+			   		         				Direct Remittance Service, Foreign Currency Time Deposit, Exchange rate inquiry, etc.
+<!-- 			   		         				경남은행 신인터넷뱅킹구축 프로젝트에서 외환뱅킹 인터넷뱅킹을 개발했습니다. 국내송금(타행),결제원이체, -->
+<!-- 			   		         				외화정기예금 신규/해지,지정환율자동이체,환율 조회,외환 계산기 등을 담당하였습니다. 이 프로젝트에서는 기획/퍼블/테스터와의 협업을 통해 -->
+<!-- 			   		         				까다로운 validation check와 다른 국적의 사용자를 위한 다국어 구축, 전문 설계, 채널 구축등을 수행했습니다. -->
 			   		         			</p>
    					   	     		</div>
    					   	        </div>
@@ -59,7 +61,8 @@
 						 		<div class="col-sm-4">
 						     		<div class="box">
 			   		         			<h4 class="heading">Client</h4>
-			   		         			<p>경남은행</p>
+			   		         			<p>Gyeongnam Bank</p>
+<!-- 			   		         			<p>경남은행</p> -->
 				   	         		</div>
 		         	   		 	</div>
 						 	</div>

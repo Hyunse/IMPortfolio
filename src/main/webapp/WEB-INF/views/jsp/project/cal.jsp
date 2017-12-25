@@ -48,9 +48,13 @@
     						    	<div class="box">
 			   		         			<h4 class="heading">About Project</h4>
 			   		         			<p>
-			   		         				식약처 적색육가공육 산출프로그램 하이브리드 앱 개발에 참여했습니다. 이 프로젝트에서는 사용자의 적색육 가공육 섭취량을 등록,
-			   		         				등록된 섭취량을 합계 비교, JqPlot Chat를 이용하여 기간별 섭취량을 시각화, 기간별 섭취한 음식물 순위 표시
-			   		         				등 웹 개발을 담당하였습니다.
+			   		         				It's a hybrid web app to calculate calorie in a processed meat and red meat user eat.
+			   		         				I made a registration page in which user can register a food they eat, 
+			   		         				a board page in which user can check calorie in each time period,
+			   		         				a graph page to use JqPlot Chart, etc.
+<!-- 			   		         				식약처 적색육가공육 산출프로그램 하이브리드 앱 개발에 참여했습니다. 이 프로젝트에서는 사용자의 적색육 가공육 섭취량을 등록, -->
+<!-- 			   		         				등록된 섭취량을 합계 비교, JqPlot Chat를 이용하여 기간별 섭취량을 시각화, 기간별 섭취한 음식물 순위 표시 -->
+<!-- 			   		         				등 웹 개발을 담당하였습니다. -->
 			   		         			</p>
    					   	     		</div>
    					   	        </div>
@@ -59,7 +63,8 @@
 						 		<div class="col-sm-4">
 						     		<div class="box">
 			   		         			<h4 class="heading">Client</h4>
-			   		         			<p>식약처</p>
+			   		         			<p>MINISTRY OF FOOD AND DRUG SAFETY</p>
+<!-- 			   		         			<p>식약처</p> -->
 				   	         		</div>
 		         	   		 	</div>
 						 	</div>

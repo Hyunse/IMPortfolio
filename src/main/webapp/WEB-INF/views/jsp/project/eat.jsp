@@ -48,8 +48,10 @@
     						    	<div class="box">
 			   		         			<h4 class="heading">About Project</h4>
 			   		         			<p>
-			   		         				식품영양성분 산출프로그램 재정비 및 확충 프로젝트입니다. 포털 통합에 따라 데이터 이관, 영양성분 산출 프로그램 기능 구현, 
-			   		         				WebSquare로 당류줄이기 교육프로그램 관리페이지 생성등을 수행했습니다.	
+			   		         				Nutritional contents program is a tool calculating nutritional contents in food.
+			   		         				I did data migration, made a nutritional contents program, made its admin page to use WebSquare.
+<!-- 			   		         				식품영양성분 산출프로그램 재정비 및 확충 프로젝트입니다. 포털 통합에 따라 데이터 이관, 영양성분 산출 프로그램 기능 구현,  -->
+<!-- 			   		         				WebSquare로 당류줄이기 교육프로그램 관리페이지 생성등을 수행했습니다.	 -->
 			   		         			</p>
    					   	     		</div>
    					   	        </div>
@@ -58,7 +60,8 @@
 						 		<div class="col-sm-4">
 						     		<div class="box">
 			   		         			<h4 class="heading">Client</h4>
-			   		         			<p>식약처</p>
+			   		         			<p>MINISTRY OF FOOD AND DRUG SAFETY</p>
+<!-- 			   		         			<p>식약처</p> -->
 				   	         		</div>
 		         	   		 	</div>
 						 	</div>

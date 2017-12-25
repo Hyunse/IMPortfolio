@@ -36,7 +36,7 @@
           <div class="container clearfix">
             <div class="row">
               <div class="col-md-8 col-md-offset-2 col-sm-12">
-                <h1>Kim Hyun Se</h1>
+                <h1>Kim Hyunse</h1>
               </div>
             </div>
           </div>
@@ -51,7 +51,7 @@
               <div class="col-md-6"> 
                 <h2 class="heading">About me</h2>
                 <p class="lead">
-                	Hello, my name is Kim Hyun Se. I'm a Full Stack Web Developer living in Seoul, Korea.
+                	Hello, my name is Kim Hyunse. I'm a Full Stack Web Developer living in Seoul, Korea.
                 	I'm looking for a job as Web Developer.
                 </p>
                	<p> 
@@ -59,7 +59,6 @@
                 	I can deal with both front-end and back-end technologies. I know how to create your website
                 	using the latest technologies available. 
 					I'm inquisitive about web programming ( Java, Javascript, Database ).
-                	Also I'm interested in Android to improve my skill.
                 </p>
               </div>
               <div class="col-md-5 col-md-offset-1">
