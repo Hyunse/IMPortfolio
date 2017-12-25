@@ -26,86 +26,86 @@
 <link rel="stylesheet" href="../resources/css/unslider-dots.css">
 <!-- Favicon-->
 <link rel="shortcut icon" href="../resources/img/favicon.ico" type="image/x-icon">
-<script src="../resources/js/jquery-1.11.0.min.js"></script>
-<script src="../resources/js/jquery.cookie.js"></script>
-<script src="../resources/js/jquery.onepage-scroll.js"></script>
-<script src="../resources/js/jquery-ui.min.js"></script>
-<script src="../resources/js/bootstrap.min.js"></script>
-<script src="../resources/js/unslider.js"></script>
-<script type="text/javascript">
-	$(document).ready(function(){
-		$('.banner').unslider({
-			fluid: true,
-			dots:true
-			
-		});
-		
-	});
-</script>
 </head>
 <body class="detailBody">
-<div class="wrapper2">
-    <div class="main"> 
-				<div class="content2">
-					 <div class="container">
-						 <div class="row details">
-						 	<div class="col-md-12">
-						 		<h2 class="heading">Project Notes</h2>
-						 		<div class="banner">
-								    <ul>
-								    	<li><img src="../resources/img/eat/eat_1.jpg" alt="" class="img-responsive"></li>
-								    	<li><img src="../resources/img/eat/eat_2.jpg" alt="" class="img-responsive"></li>
-								    	<li><img src="../resources/img/eat/eat_3.jpg" alt="" class="img-responsive"></li>
-								    	<li><img src="../resources/img/eat/eat_4.jpg" alt="" class="img-responsive"></li>
-								    </ul>
-								</div>
-							 	<div class="row">
-							    	<div class="col-sm-12">
-	    						    	<div class="box">
-				   		         			<h4 class="heading">About Project</h4>
-				   		         			<p>
-				   		         				식품영양성분 산출프로그램 재정비 및 확충 프로젝트입니다. 포털 통합에 따라 데이터 이관, 영양성분 산출 프로그램 기능 구현, 
-				   		         				WebSquare로 당류줄이기 교육프로그램 관리페이지 생성등을 수행했습니다.	
-				   		         			</p>
-	   					   	     		</div>
-	   					   	        </div>
-							 	</div>
-							 	<div class="row">
-							 		<div class="col-sm-4">
-							     		<div class="box">
-				   		         			<h4 class="heading">Client</h4>
-				   		         			<p>식약처</p>
-					   	         		</div>
-			         	   		 	</div>
-							 	</div>
-							 	<div class="row">
-							 	 	<div class="col-sm-4">
-			         	   				<div class="box">
-					   		         		<h4 class="heading">Term</h4>
-					   		         		<p>2015.12 ~ 2016.01</p>
-					   		        	</div>
-	   					   	     	</div>
-							 	</div>
-							 	<div class="row">
-							 	 	<div class="col-sm-4">
-			         	   				<div class="box">
-					   		         		<h4 class="heading">Technologies</h4>
-					   		         		<ul >
-					   		         			<li>eGovFramework</li>
-					   		         			<li>Mybatis</li>
-					   		         			<li>WebSquare5</li>
-					   		         			<li>Jquery</li>
-					   		         			<li>Java</li>
-					   		         			<li>Altibase</li>
-					   		         		</ul>
-					   		        	</div>
-	   					   	     	</div>
-							 	</div>
+	<div class="wrapper2">
+	    <div class="main"> 
+			<div class="content2">
+				 <div class="container">
+					 <div class="row details">
+					 	<div class="col-md-12">
+					 		<h2 class="heading">Project Notes</h2>
+					 		<div class="banner">
+							    <ul>
+							    	<li><img src="../resources/img/eat/eat_1.jpg" alt="" class="img-responsive"></li>
+							    	<li><img src="../resources/img/eat/eat_2.jpg" alt="" class="img-responsive"></li>
+							    	<li><img src="../resources/img/eat/eat_3.jpg" alt="" class="img-responsive"></li>
+							    	<li><img src="../resources/img/eat/eat_4.jpg" alt="" class="img-responsive"></li>
+							    </ul>
+							</div>
+						 	<div class="row">
+						    	<div class="col-sm-12">
+    						    	<div class="box">
+			   		         			<h4 class="heading">About Project</h4>
+			   		         			<p>
+			   		         				식품영양성분 산출프로그램 재정비 및 확충 프로젝트입니다. 포털 통합에 따라 데이터 이관, 영양성분 산출 프로그램 기능 구현, 
+			   		         				WebSquare로 당류줄이기 교육프로그램 관리페이지 생성등을 수행했습니다.	
+			   		         			</p>
+   					   	     		</div>
+   					   	        </div>
 						 	</div>
-						 </div>
+						 	<div class="row">
+						 		<div class="col-sm-4">
+						     		<div class="box">
+			   		         			<h4 class="heading">Client</h4>
+			   		         			<p>식약처</p>
+				   	         		</div>
+		         	   		 	</div>
+						 	</div>
+						 	<div class="row">
+						 	 	<div class="col-sm-4">
+		         	   				<div class="box">
+				   		         		<h4 class="heading">Term</h4>
+				   		         		<p>2015.12 ~ 2016.01</p>
+				   		        	</div>
+   					   	     	</div>
+						 	</div>
+						 	<div class="row">
+						 	 	<div class="col-sm-4">
+		         	   				<div class="box">
+				   		         		<h4 class="heading">Technologies</h4>
+				   		         		<ul >
+				   		         			<li>eGovFramework</li>
+				   		         			<li>Mybatis</li>
+				   		         			<li>WebSquare5</li>
+				   		         			<li>Jquery</li>
+				   		         			<li>Java</li>
+				   		         			<li>Altibase</li>
+				   		         		</ul>
+				   		        	</div>
+   					   	     	</div>
+						 	</div>
+					 	</div>
 					 </div>
-				</div>
+				 </div>
 			</div>
 		</div>
-	</body>
+	</div>
+	<script src="../resources/js/jquery-1.11.0.min.js"></script>
+	<script src="../resources/js/jquery.cookie.js"></script>
+	<script src="../resources/js/jquery.onepage-scroll.js"></script>
+	<script src="../resources/js/jquery-ui.min.js"></script>
+	<script src="../resources/js/bootstrap.min.js"></script>
+	<script src="../resources/js/unslider.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('.banner').unslider({
+				fluid: true,
+				dots:true
+				
+			});
+			
+		});
+	</script>
+</body>
 </html>
